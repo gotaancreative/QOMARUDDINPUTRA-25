@@ -1,0 +1,1 @@
+﻿var textForPages = ["CEK BARCODE                                                       QOMARUDDIN                                                       PUTRA ."];
